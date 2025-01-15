@@ -1,2 +1,5 @@
 # USTC_DS_Courses
-Courses of Data Science Master &amp; Phd in Dara Science
+本仓库用于存放中国科学技术大学数据科学（数学）专业培养方案下部分课程的学习资料，包括但不限于：
+- 课程考试卷子
+- 复习资料
+- 考试范畴
